@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pet-care-reminder/static/css/main.ff67f97d.css",
+    "main.js": "/pet-care-reminder/static/js/main.2d4ed3b3.js",
+    "static/js/453.1cd24e3a.chunk.js": "/pet-care-reminder/static/js/453.1cd24e3a.chunk.js",
+    "index.html": "/pet-care-reminder/index.html",
+    "main.ff67f97d.css.map": "/pet-care-reminder/static/css/main.ff67f97d.css.map",
+    "main.2d4ed3b3.js.map": "/pet-care-reminder/static/js/main.2d4ed3b3.js.map",
+    "453.1cd24e3a.chunk.js.map": "/pet-care-reminder/static/js/453.1cd24e3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff67f97d.css",
+    "static/js/main.2d4ed3b3.js"
+  ]
+}
